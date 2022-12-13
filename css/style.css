@@ -1,0 +1,35 @@
+.board{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 30px 40px;
+    margin: 5px;
+    background-color: magenta;
+    color: #000;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: medium;
+    font-weight: 800;
+}
+
+.field{
+    background-color: #E5E7E9;
+    
+}
+
+.current{
+    background-color: #E74C3C;
+    
+}
+
+.path{
+    background-color: #F7DC6F;
+}
+
+.previous{
+    background-color: #2ECC71;
+}
+
